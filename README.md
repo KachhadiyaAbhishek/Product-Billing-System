@@ -1,4 +1,4 @@
  # ProductBillingSystem
  
 ## Bill Image
-![Bill Image](images/screenshot)
+![Bill Image](https://github.com/KachhadiyaAbhishek/Product-Billing-System/blob/main/Images/Screenshot.png)

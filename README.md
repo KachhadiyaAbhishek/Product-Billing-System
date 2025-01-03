@@ -1,4 +1,4 @@
  # ProductBillingSystem
  
 ## Bill Image
-![Bill Image](image/screenshot)
+![Bill Image](images/screenshot)
